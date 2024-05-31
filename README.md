@@ -1,0 +1,1 @@
+[![Build Status](https://dev.azure.com/king333/Devrepo/_apis/build/status%2FDevops90903.gitapp02?branchName=master)](https://dev.azure.com/king333/Devrepo/_build/latest?definitionId=41&branchName=master)
